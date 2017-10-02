@@ -1,6 +1,6 @@
 class Guest
 
-attr_reader :name, :favourite
+attr_accessor :name, :favourite
 
 def initialize(name, favourite)
   @name = name

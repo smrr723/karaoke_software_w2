@@ -25,4 +25,5 @@ def test_can_shout
   assert_equal("Wooo! Rock and roll!", result)
 end
 
+
 end
